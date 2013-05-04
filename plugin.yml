@@ -1,0 +1,30 @@
+name: GildorymPermissions
+author: Lucariatias
+version: 1.0.0
+main: com.gildorymrp.permissions.GildorymPermissions
+commands:
+    setgroup:
+        description: Sets a players group
+        usage: /<command> [player] [group]
+    addgroup:
+        description: Adds a group to a player
+        usage: /<command> [player] [group]
+    removegroup:
+        description: Removes a group from a player
+        usage: /<command> [player] [group]
+    listgroups:
+        description: Lists the groups configured
+        usage: /<command>
+permissions:
+    gildorym.permissions.command.setgroup:
+        description: Allows the player to use /setgroup
+        default: op
+    gildorym.permissions.command.addgroup:
+        description: Allows the player to use /addgroup
+        default: op
+    gildorym.permissions.command.removegroup:
+        description: Allows the player to use /removegroup
+        default: op
+    gildorym.permissions.command.listgroups:
+        description: Allows the player to use /listgroups
+        default: op
