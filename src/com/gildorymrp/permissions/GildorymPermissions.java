@@ -51,8 +51,12 @@ public class GildorymPermissions extends JavaPlugin {
 			this.unassignPermissions(player);
 			permissionAttachments.put(player.getName(), player.addAttachment(this));
 		}
-		for (String group : this.getConfig().getStringList("users/" + player.getName())) {
-			this.assignGroupPermissions(player, group);
+		if (this.getConfig().getConfigurationSection("users").contains(player.getName())) {
+			for (String group : this.getConfig().getStringList("users/" + player.getName())) {
+				this.assignGroupPermissions(player, group);
+			}
+		} else {
+			this.assignGroupPermissions(player, "default");
 		}
 	}
 
