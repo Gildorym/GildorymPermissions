@@ -1,210 +1,264 @@
 users:
-    Ccat6110:
-    - dungeonmaster
-    Csat6110:
-    - dungeonmaster
-    xXDeadlyPigXx:
-    - dungeonmaster
-    - silverdonator
-    deadlyspacepig:
-    - dungeonmaster
-    - silverdonator
-    LewisBMX:
-    - mod
-    TheBujinkan:
-    - mod
-    Murderfoxen:
-    - dungeonmaster
-    Da_Emperors:
-    - mod
-    - headcommunitymanager
-    - platinumdonator
-    Kyazi:
-    - mod
-    - platinumdonator
-    Kyazi_B:
-    - mod
-    - platinumdonator
-    GalGamer245:
-    - mod
-    - bronzedonator
-    Roxthesox:
-    - mod
-    LightTwig:
-    - mod
-    MusicMasterMike:
-    - mod
-    - silverdonator
-    Youngie5500:
-    - admin
-    - platinumdonator
-    CraZoo:
-    - admin
-    - platinumdonator
-    Pattington_Bear:
-    - admin
-    Grnwd:
-    - admin
-    - headdungeonmaster
-    magichunter1990:
-    - admin
-    - headdungeonmaster
-    Telanir:
-    - developer
-    Lucariatias:
-    - headdeveloper
-    kiramae16f:
-    - platinumdonator
-    HardBoiledSheep:
-    - bronzedonator
-    EsmeTyler:
-    - bronzedonator
-    crystalraven:
-    - bronzedonator
-    melodichand:
-    - bronzedonator
-    Zammie:
-    - silverdonator
-    Rialpicto:
-    - silverdonator
-    helsore:
-    - silverdonator
-    Repelsteel:
-    - silverdonator
-    erads:
-    - silverdonator
-    serenityonyx:
-    - silverdonator
-    Amethain:
-    - silverdonator
-    TheMtDragon:
-    - silverdonator
-    Menarra:
-    - silverdonator
-    mdhegs:
-    - silverdonator
-    nat123800:
-    - silverdonator
-    Elite117:
-    - silverdonator
-    SockMonkeyMan:
-    - silverdonator
-    Slic3man:
-    - silverdonator
-    Torranes:
-    - silverdonator
-    Kefsngreed:
-    - silverdonator
-    erik0821:
-    - silverdonator
-    EpicCommander:
-    - silverdonator
-    Thoak_Sludgefist:
-    - silverdonator
-    freddy99000:
-    - silverdonator
-    SparkyT:
-    - silverdonator
-    NatiiBoi:
-    - silverdonator
-    lanehud:
-    - silverdonator
-    toby2002:
-    - silverdonator
-    - dungeonmaster
-    meinheld:
-    - silverdonator
-    Alikdoril:
-    - silverdonator
-    warrior_431:
-    - silverdonator
-    tokio12:
-    - silverdonator
-    Ghrotto:
-    - silverdonator
-    Ragonath:
-    - silverdonator
-    Hightinker:
-    - silverdonator
-    Svinthila:
-    - silverdonator
-    Envertz:
-    - silverdonator
-    SirDatz:
-    - silverdonator
-    MightyBragger:
-    - golddonator
-    Mipr:
-    - golddonator
-    Seiryuuin:
-    - golddonator
-    lugarthecougar:
-    - golddonator
-    gnomesmasher:
-    - golddonator
-    Holy_Bejebus:
-    - golddonator
-    Twistedonslaught:
-    - golddonator
-    Willhelm:
-    - golddonator
-    emokid151:
-    - golddonator
-    Lindasaurus:
-    - golddonator
-    mergoAnas:
-    - golddonator
-    duckgrapes:
-    - golddonator
-    urnxtwhiz:
-    - platinumdonator
-    clugred:
-    - platinumdonator
-    Ithildae:
-    - platinumdonator
-    JordanXLord:
-    - platinumdonator
-    Necrotic_Blade:
-    - dungeonmaster
-    - platinumdonator
-    Gorikon:
-    - platinumdonator
-    jraie45:
-    - platinumdonator
-    morrowr2:
-    - platinumdonator
-    Arkelos:
-    - platinumdonator
-    Senda:
-    - platinumdonator
-    Murderfoxen:
-    - platinumdonator
-    ThorvuldD:
-    - platinumdonator
-    The_Apothecary:
-    - platinumdonator
-    Varlanou:
-    - platinumdonator
-    StephenJC:
-    - platinumdonator
-    Paulie2499:
-    - platinumdonator
-    Banespacemarine:
-    - platinumdonator
-    08phillips:
-    - platinumdonator
-    s0lluth:
-    - platinumdonator
-    - whitelister
-    Vardak:
-    - platinumdonator
-    Lithimis:
-    - platinumdonator
-    Hunter_Tha_Boss:
-    - platinumdonator
-    Amaelith:
-    - dungeonmaster
-    - platinumdonator
+  ccat6110:
+  - dungeonmaster
+  csat6110:
+  - dungeonmaster
+  xXDeadlyPigXx:
+  - dungeonmaster
+  - silverdonator
+  - dungeonmaster
+  deadlyspacepig:
+  - dungeonmaster
+  - silverdonator
+  LewisBMX:
+  - mod
+  TheBujinkan:
+  - mod
+  Murderfoxen:
+  - dungeonmaster
+  - tester
+  Da_Emperors:
+  - platinumdonator
+  Kyazi:
+  - mod
+  Kyazi_B:
+  - mod
+  GalGamer245:
+  - mod
+  Roxthesox:
+  - default
+  LightTwig:
+  - default
+  MusicMasterMike:
+  - mod
+  - silverdonator
+  - trialmod
+  Youngie5500:
+  - admin
+  - platinumdonator
+  CraZoo:
+  - admin
+  - platinumdonator
+  - admin
+  Pattington_Bear:
+  - admin
+  Grnwd:
+  - admin
+  - platinumdonator
+  - admin
+  magichunter1990:
+  - admin
+  - platinumdonator
+  Telanir:
+  - developer
+  Lucariatias:
+  - headdeveloper
+  kiramae16f:
+  - platinumdonator
+  HardBoiledSheep:
+  - bronzedonator
+  EsmeTyler:
+  - bronzedonator
+  crystalraven:
+  - bronzedonator
+  melodichand:
+  - trialmod
+  Zammie:
+  - silverdonator
+  Rialpicto:
+  - silverdonator
+  helsore:
+  - silverdonator
+  Repelsteel:
+  - silverdonator
+  erads:
+  - silverdonator
+  serenityonyx:
+  - silverdonator
+  Amethain:
+  - silverdonator
+  TheMtDragon:
+  - silverdonator
+  Menarra:
+  - silverdonator
+  mdhegs:
+  - silverdonator
+  nat123800:
+  - silverdonator
+  Elite117:
+  - silverdonator
+  SockMonkeyMan:
+  - silverdonator
+  - dungeonmaster
+  Slic3man:
+  - silverdonator
+  Torranes:
+  - silverdonator
+  Kefsngreed:
+  - silverdonator
+  erik0821:
+  - silverdonator
+  EpicCommander:
+  - silverdonator
+  Thoak_Sludgefist:
+  - silverdonator
+  freddy99000:
+  - silverdonator
+  SparkyT:
+  - silverdonator
+  NatiiBoi:
+  - silverdonator
+  lanehud:
+  - silverdonator
+  toby2002:
+  - silverdonator
+  - dungeonmaster
+  meinheld:
+  - platinumdonator
+  Alikdoril:
+  - silverdonator
+  warrior_431:
+  - silverdonator
+  tokio12:
+  - silverdonator
+  Ghrotto:
+  - silverdonator
+  Ragonath:
+  - silverdonator
+  Hightinker:
+  - silverdonator
+  Svinthila:
+  - silverdonator
+  Envertz:
+  - silverdonator
+  SirDatz:
+  - silverdonator
+  MightyBragger:
+  - golddonator
+  Mipr:
+  - golddonator
+  Seiryuuin:
+  - golddonator
+  lugarthecougar:
+  - golddonator
+  gnomesmasher:
+  - golddonator
+  Holy_Bejebus:
+  - golddonator
+  Twistedonslaught:
+  - golddonator
+  Willhelm:
+  - golddonator
+  emokid151:
+  - golddonator
+  Lindasaurus:
+  - golddonator
+  mergoAnas:
+  - golddonator
+  duckgrapes:
+  - golddonator
+  urnxtwhiz:
+  - platinumdonator
+  clugred:
+  - platinumdonator
+  Ithildae:
+  - platinumdonator
+  JordanXLord:
+  - platinumdonator
+  Necrotic_Blade:
+  - dungeonmaster
+  Gorikon:
+  - platinumdonator
+  jraie45:
+  - platinumdonator
+  morrowr2:
+  - platinumdonator
+  Arkelos:
+  - platinumdonator
+  - whitelister
+  Senda:
+  - platinumdonator
+  ThorvuldD:
+  - platinumdonator
+  The_Apothecary:
+  - platinumdonator
+  Varlanou:
+  - platinumdonator
+  StephenJC:
+  - platinumdonator
+  Paulie2499:
+  - platinumdonator
+  Banespacemarine:
+  - platinumdonator
+  08phillips:
+  - platinumdonator
+  s0lluth:
+  - platinumdonator
+  Vardak:
+  - platinumdonator
+  - whitelister
+  Lithimis:
+  - platinumdonator
+  - headdungeonmaster
+  Hunter_Tha_Boss:
+  - platinumdonator
+  Amaelith:
+  - dungeonmaster
+  Pattington_bear:
+  - admin
+  AlabasterTempest:
+  - trialmod
+  voidedWarlord:
+  - whitelister
+  Varnasis:
+  - mod
+  Kiwolski007:
+  - silverdonator
+  DanTheDangerous:
+  - silverdonator
+  _emeraldturtwig_:
+  - golddonator
+  SquishyBoo:
+  - mod
+  Yollm:
+  - silverdonator
+  DARK_ICE17:
+  - trialmod
+  ISpencerI:
+  - platinumdonator
+  ProfessorSnizard:
+  - admin
+  PoxxI:
+  - admin
+  Ponkie_Poe:
+  - dungeonmaster
+  Mentosento:
+  - whitelister
+  Engelbritzon:
+  - trialmod
+  - tester
+  sherbert126:
+  - trialmod
+  - tester
+  Biinary:
+  - golddonator
+  - developer
+  - tester
+  Omnom18:
+  - whitelister
+  StrawberryKyuubi:
+  - platinumdonator
+  forrie_420:
+  - silverdonator
+  GravekeepersCat:
+  - whitelister
+  Rickshawd:
+  - mod
+  - headdungeonmaster
+  GoldJedi:
+  - silverdonator
+  HeadPikachu:
+  - developer
 groups:
   default:
     deny:
@@ -269,6 +323,68 @@ groups:
     - coreprotect.purge
     - coreprotect.reload
     - coreprotect.help
+    - craftbook.reload
+    - craftbook.update
+    - craftbook.mech.area.save.self
+    - craftbook.mech.area.save.<namespace>
+    - craftbook.mech.area.delete.self
+    - craftbook.mech.area.delete.<namespace>
+    - craftbook.mech.area.delete.<namespace>.all
+    - craftbook.mech.area.list.self
+    - craftbook.mech.area.list.all
+    - craftbook.mech.area.list.<namespace>
+    - craftbook.mech.area.sign.area
+    - craftbook.mech.area.sign.savearea
+    - craftbook.mech.area.use
+    - craftbook.mech.ammeter.use
+    - craftbook.mech.pistons.bounce
+    - craftbook.mech.pistons.crush
+    - craftbook.mech.pistons.superpush
+    - craftbook.mech.pistons.supersticky
+    - craftbook.mech.bridge
+    - craftbook.mech.bridge.restock
+    - craftbook.mech.bridge.infinite
+    - craftbook.mech.cauldron
+    - craftbook.mech.command
+    - craftbook.mech.cook
+    - craftbook.mech.door
+    - craftbook.mech.door.infinite
+    - craftbook.mech.door.restock
+    - craftbook.mech.drops
+    - craftbook.mech.elevator
+    - craftbook.mech.gate
+    - craftbook.mech.dgate
+    - craftbook.mech.gate.restock
+    - craftbook.mech.gate.infinite
+    - craftbook.mech.hiddenswitch
+    - craftbook.mech.light-switch
+    - craftbook.mech.map
+    - craftbook.mech.pay
+    - craftbook.mech.signcopy.use
+    - craftbook.mech.snow.place
+    - craftbook.mech.snow.trample
+    - craftbook.mech.teleporter
+    - craftbook.mech.teleporter.use
+    - craftbook.mech.xpstore.use
+    - craftbook.vehicles.deposit
+    - craftbook.vehicles.dispenser
+    - craftbook.vehicles.ejector
+    - craftbook.vehicles.print
+    - craftbook.vehicles.reverser
+    - craftbook.vehicles.sorter
+    - craftbook.vehicles.station
+    - craftbook.vehicles.teleport
+    - craftbook.vehicles.cartlift
+    - craftbook.circuits.pipes
+    - craftbook.ic.*
+    - craftbook.ic.<category>.mcxxx
+    - craftbook.ic.<category>.*
+    - craftbook.ic.safe.*
+    - craftbook.ic.restricted.*
+    - craftbook.ic.mcxxxx
+    - craftbook.ic.safe.mcxxxx
+    - craftbook.ic.restricted.mcxxxx
+    - craftbook.plc.debug
     - dimensiondoor.clear
     - dimensiondoor.create
     - dimensiondoor.info
@@ -600,12 +716,12 @@ groups:
     - essentials.xmpp
     - essentials.xmppspy
     - falldamagedetector.notify
-    - gildorymchat.ch.talkin.mod
-    - gildorymchat.ch.mute.say
-    - gildorymchat.ch.mute.whisper
-    - gildorymchat.ch.mute.shout
-    - gildorymchat.ch.mute.mod
-    - gildorymchat.ch.listen.mod
+    - gildorym.chat.ch.talkin.mod
+    - gildorym.chat.ch.mute.say
+    - gildorym.chat.ch.mute.whisper
+    - gildorym.chat.ch.mute.shout
+    - gildorym.chat.ch.mute.mod
+    - gildorym.chat.ch.listen.mod
     - giveall.command.give-all
     - iConomy.holdings.others
     - iConomy.accounts.create
@@ -617,58 +733,7 @@ groups:
     - iConomy.accounts.purge
     - iConomy.accounts.empty
     - itemenchanting.command.enchant
-    - lwc.*
-    - lwc.protect
-    - lwc.admin
-    - lwc.allcommands
-    - lwc.mod
-    - lwc.deny
-    - lwc.flag.*
-    - lwc.allflags
-    - lwc.flag.redstone
-    - lwc.flag.magnet
-    - lwc.flag.autoclose
-    - lwc.mode.*
-    - lwc.allmodes
-    - lwc.mode.persist
-    - lwc.mode.droptransfer
-    - lwc.autoprotect
     - moreplayermodels.love
-    - permissions.help
-    - permissions.reload
-    - permissions.check
-    - permissions.info
-    - permissions.dump
-    - permissions.group.help
-    - permissions.group.list
-    - permissions.group.players
-    - permissions.group.setperm
-    - permissions.group.unsetperm
-    - permissions.player.help
-    - permissions.player.groups
-    - permissions.player.setgroup
-    - permissions.player.addgroup
-    - permissions.player.removegroup
-    - permissions.player.setperm
-    - permissions.player.unsetperm
-    - permissions.setrank.default
-    - permissions.setrank.bronzedonator
-    - permissions.setrank.silverdonator
-    - permissions.setrank.golddonator
-    - permissions.setrank.platinumdonator
-    - permissions.setrank.trialmod
-    - permissions.setrank.mod
-    - permissions.setrank.admin
-    - permissions.setrank.whitelist
-    - permissions.setrank.forummod
-    - permissions.setrank.communitymanager
-    - permissions.setrank.headcommunitymanager
-    - permissions.setrank.trialdungeonmaster
-    - permissions.setrank.dungeonmaster
-    - permissions.setrank.headdungeonmaster
-    - permissions.setrank.trialdeveloper
-    - permissions.setrank.developer
-    - permissions.setrank.headdeveloper
     - potioncaster.cast
     - protocol.admin
     - rudeltools.break.shovel
@@ -687,7 +752,6 @@ groups:
     - silverswords.command.setsilver
     - announce.admin
     - sw.warn
-    - sw.check
     - sw.check.other
     - sw.delete
     - sw.mod
@@ -868,8 +932,22 @@ groups:
     - channelswitcher.shout
     - channelswitcher.global
     - channelswitcher.help
+    - channelswitcher.irc
     - chestshop.shop.*
     - chestshop.nofee
+    - craftbook.mech.bridge.use
+    - craftbook.mech.bookshelf.use
+    - craftbook.mech.cauldron.use
+    - craftbook.mech.chair.use
+    - craftbook.mech.command.use
+    - craftbook.mech.door.use
+    - craftbook.mech.elevator.use
+    - craftbook.mech.gate.use
+    - craftbook.mech.hiddenswitch.use
+    - craftbook.mech.lightstone.use
+    - craftbook.mech.map.use
+    - craftbook.mech.paintingswitch.use
+    - craftbook.mech.pay.use
     - dimensiondoor.access.*
     - essentials.afk.auto
     - essentials.balance
@@ -901,33 +979,34 @@ groups:
     - essentials.signs.use.warp
     - essentials.time
     - factions.kit.halfplayer
-    - gildorymchat.ch.talkin.say
-    - gildorymchat.ch.talkin.whisper
-    - gildorymchat.ch.talkin.shout
-    - gildorymchat.ch.talkin.global
-    - gildorymchat.ch.talkin.help
-    - gildorymchat.ch.mute.global
-    - gildorymchat.ch.mute.help
-    - gildorymchat.ch.listen.say
-    - gildorymchat.ch.listen.whisper
-    - gildorymchat.ch.listen.shout
-    - gildorymchat.ch.listen.global
-    - gildorymchat.ch.listen.help
+    - gildorym.chat.ch.talkin.say
+    - gildorym.chat.ch.talkin.whisper
+    - gildorym.chat.ch.talkin.shout
+    - gildorym.chat.ch.talkin.global
+    - gildorym.chat.ch.talkin.help
+    - gildorym.chat.ch.talkin.irc
+    - gildorym.chat.ch.talkin.ooc
+    - gildorym.chat.ch.mute.global
+    - gildorym.chat.ch.mute.help
+    - gildorym.chat.ch.mute.irc
+    - gildorym.chat.ch.mute.ooc
+    - gildorym.chat.ch.listen.say
+    - gildorym.chat.ch.listen.whisper
+    - gildorym.chat.ch.listen.shout
+    - gildorym.chat.ch.listen.global
+    - gildorym.chat.ch.listen.help
+    - gildorym.chat.ch.listen.irc
+    - gildorym.chat.ch.listen.ooc
     - iConomy.holdings
     - iConomy.help
     - iConomy.payment
-    - lwc.shownotices
-    - lwc.create
-    - lwc.modify
-    - lwc.unlock
-    - lwc.info
-    - lwc.remove
+    - lwc.protect
     - moreplayermodels.sit
     - moreplayermodels.sleep
     - moreplayermodels.dance
     - moreplayermodels.hug
     - moreplayermodels.sing
-    - permissions.build
+    - sw.check
     - worldguard.region.info.own
     - worldguard.region.info.member
     - worldguard.region.addowner.own.*
@@ -966,6 +1045,12 @@ groups:
     - donatorperks.gold
     - donatorperks.silver
     - donatorperks.bronze
+  tester:
+    allow:
+    - essentials.delhome
+    - essentials.home
+    - essentials.sethome
+    - essentials.sethome.multiple
   trialmod:
     inheritsfrom: default
     allow:
@@ -973,6 +1058,7 @@ groups:
     - basicchar.command.getclass
     - basicchar.command.getlevel
     - basicchar.command.getprofession
+    - betterWarnings.qw
     - bukkit.command.kick
     - bukkit.command.teleport
     - bukkit.command.whitelist.add
@@ -1018,23 +1104,21 @@ groups:
     - essentials.warp.list
     - essentials.warp.otherplayers
     - essentials.warps.*
+    - essentials.weather
     - falldamagedetector.notify
-    - gildorymchat.ch.talkin.mod
-    - gildorymchat.ch.mute.mod
-    - gildorymchat.ch.listen.mod
+    - gildorym.chat.ch.talkin.mod
+    - gildorym.chat.ch.mute.mod
+    - gildorym.chat.ch.listen.mod
     - iConomy.holdings.others
     - lwc.mod
     - potioncaster.cast
     - silverswords.command.setsilver
-    - sw.warn
-    - sw.check
-    - sw.check.other
-    - sw.delete
     - sw.mod
     - sw.reload
     - sw.fix
+    - betterWarnings.qw
+    - betterWarnings.reload
     - essentials.whois
-    - lwc.admin
     - factions.kit.mod
     deny:
     - essentials.vanish.effect
@@ -1044,8 +1128,12 @@ groups:
   mod:
     inheritsfrom: trialmod
     allow:
+    - essentials.delhome
+    - essentials.home
     - essentials.kit
     - essentials.kits.silver
+    - essentials.sethome
+    - essentials.sethome.multiple
     - areamessenger.command.radiusemote
     - basicchar.command.addexp
     - basicchar.command.getclass
@@ -1108,6 +1196,61 @@ groups:
     - coreprotect.purge
     - coreprotect.reload
     - coreprotect.help
+    - craftbook.reload
+    - craftbook.mech.area.save.self
+    - craftbook.mech.area.save.<namespace>
+    - craftbook.mech.area.delete.self
+    - craftbook.mech.area.delete.<namespace>
+    - craftbook.mech.area.delete.<namespace>.all
+    - craftbook.mech.area.list.self
+    - craftbook.mech.area.list.all
+    - craftbook.mech.area.list.<namespace>
+    - craftbook.mech.area.sign.area
+    - craftbook.mech.area.sign.savearea
+    - craftbook.mech.area.use
+    - craftbook.mech.ammeter.use
+    - craftbook.mech.pistons.bounce
+    - craftbook.mech.pistons.crush
+    - craftbook.mech.pistons.superpush
+    - craftbook.mech.pistons.supersticky
+    - craftbook.mech.bridge
+    - craftbook.mech.bridge.use
+    - craftbook.mech.bridge.restock
+    - craftbook.mech.bridge.infinite
+    - craftbook.mech.bookshelf.use
+    - craftbook.mech.cauldron
+    - craftbook.mech.cauldron.use
+    - craftbook.mech.chair.use
+    - craftbook.mech.command
+    - craftbook.mech.command.use
+    - craftbook.mech.cook
+    - craftbook.mech.door
+    - craftbook.mech.door.use
+    - craftbook.mech.door.infinite
+    - craftbook.mech.door.restock
+    - craftbook.mech.drops
+    - craftbook.mech.elevator
+    - craftbook.mech.elevator.use
+    - craftbook.mech.gate
+    - craftbook.mech.dgate
+    - craftbook.mech.gate.use
+    - craftbook.mech.gate.restock
+    - craftbook.mech.gate.infinite
+    - craftbook.mech.hiddenswitch
+    - craftbook.mech.hiddenswitch.use
+    - craftbook.mech.lightstone.use
+    - craftbook.mech.light-switch
+    - craftbook.mech.map
+    - craftbook.mech.map.use
+    - craftbook.mech.paintingswitch.use
+    - craftbook.mech.pay
+    - craftbook.mech.pay.use
+    - craftbook.mech.signcopy.use
+    - craftbook.mech.snow.place
+    - craftbook.mech.snow.trample
+    - craftbook.mech.teleporter
+    - craftbook.mech.teleporter.use
+    - craftbook.plc.debug
     - dimensiondoor.access.*
     - dimensiondoor.create
     - dimensiondoor.info
@@ -1144,37 +1287,11 @@ groups:
     - iConomy.accounts.purge
     - iConomy.accounts.empty
     - itemenchanting.command.enchant
-    - lwc.shownotices
-    - lwc.mod
-    - lwc.create
-    - lwc.modify
-    - lwc.unlock
-    - lwc.remove
-    - permissions.setrank.default
-    - permissions.setrank.bronzedonator
-    - permissions.setrank.silverdonator
-    - permissions.setrank.golddonator
-    - permissions.setrank.platinumdonator
+    - lwc.admin
     - worldborder.help
     - worldborder.set
     - factions.adminmode
     deny:
-    - lwc.*
-    - lwc.protect
-    - lwc.admin
-    - lwc.allcommands
-    - lwc.deny
-    - lwc.info
-    - lwc.flag*
-    - lwc.allflags
-    - lwc.flag.redstone
-    - lwc.flag.magnet
-    - lwc.flag.autoclose
-    - lwc.mode.*
-    - lwc.allmodes
-    - lwc.mode.persist
-    - lwc.mode.droptransfer
-    - lwc.autoprotect
     - worldborder.radius
     - worldborder.clear
     - worldborder.list
@@ -1269,6 +1386,81 @@ groups:
     - coreprotect.purge
     - coreprotect.reload
     - coreprotect.help
+    - craftbook.reload
+    - craftbook.update
+    - craftbook.mech.area.save.self
+    - craftbook.mech.area.save.<namespace>
+    - craftbook.mech.area.delete.self
+    - craftbook.mech.area.delete.<namespace>
+    - craftbook.mech.area.delete.<namespace>.all
+    - craftbook.mech.area.list.self
+    - craftbook.mech.area.list.all
+    - craftbook.mech.area.list.<namespace>
+    - craftbook.mech.area.sign.area
+    - craftbook.mech.area.sign.savearea
+    - craftbook.mech.area.use
+    - craftbook.mech.ammeter.use
+    - craftbook.mech.pistons.bounce
+    - craftbook.mech.pistons.crush
+    - craftbook.mech.pistons.superpush
+    - craftbook.mech.pistons.supersticky
+    - craftbook.mech.bridge
+    - craftbook.mech.bridge.use
+    - craftbook.mech.bridge.restock
+    - craftbook.mech.bridge.infinite
+    - craftbook.mech.bookshelf.use
+    - craftbook.mech.cauldron
+    - craftbook.mech.cauldron.use
+    - craftbook.mech.chair.use
+    - craftbook.mech.command
+    - craftbook.mech.command.use
+    - craftbook.mech.cook
+    - craftbook.mech.door
+    - craftbook.mech.door.use
+    - craftbook.mech.door.infinite
+    - craftbook.mech.door.restock
+    - craftbook.mech.drops
+    - craftbook.mech.elevator
+    - craftbook.mech.elevator.use
+    - craftbook.mech.gate
+    - craftbook.mech.dgate
+    - craftbook.mech.gate.use
+    - craftbook.mech.gate.restock
+    - craftbook.mech.gate.infinite
+    - craftbook.mech.hiddenswitch
+    - craftbook.mech.hiddenswitch.use
+    - craftbook.mech.lightstone.use
+    - craftbook.mech.light-switch
+    - craftbook.mech.map
+    - craftbook.mech.map.use
+    - craftbook.mech.paintingswitch.use
+    - craftbook.mech.pay
+    - craftbook.mech.pay.use
+    - craftbook.mech.signcopy.use
+    - craftbook.mech.snow.place
+    - craftbook.mech.snow.trample
+    - craftbook.mech.teleporter
+    - craftbook.mech.teleporter.use
+    - craftbook.mech.xpstore.use
+    - craftbook.vehicles.deposit
+    - craftbook.vehicles.dispenser
+    - craftbook.vehicles.ejector
+    - craftbook.vehicles.print
+    - craftbook.vehicles.reverser
+    - craftbook.vehicles.sorter
+    - craftbook.vehicles.station
+    - craftbook.vehicles.teleport
+    - craftbook.vehicles.cartlift
+    - craftbook.circuits.pipes
+    - craftbook.ic.*
+    - craftbook.ic.<category>.mcxxx
+    - craftbook.ic.<category>.*
+    - craftbook.ic.safe.*
+    - craftbook.ic.restricted.*
+    - craftbook.ic.mcxxxx
+    - craftbook.ic.safe.mcxxxx
+    - craftbook.ic.restricted.mcxxxx
+    - craftbook.plc.debug
     - dimensiondoor.access.*
     - dimensiondoor.clear
     - dimensiondoor.create
@@ -1620,24 +1812,24 @@ groups:
     - essentials.xmppspy
     - factions.kit.admin
     - falldamagedetector.notify
-    - gildorymchat.ch.talkin.say
-    - gildorymchat.ch.talkin.whisper
-    - gildorymchat.ch.talkin.shout
-    - gildorymchat.ch.talkin.global
-    - gildorymchat.ch.talkin.mod
-    - gildorymchat.ch.talkin.help
-    - gildorymchat.ch.mute.say
-    - gildorymchat.ch.mute.whisper
-    - gildorymchat.ch.mute.shout
-    - gildorymchat.ch.mute.global
-    - gildorymchat.ch.mute.mod
-    - gildorymchat.ch.mute.help
-    - gildorymchat.ch.listen.say
-    - gildorymchat.ch.listen.whisper
-    - gildorymchat.ch.listen.shout
-    - gildorymchat.ch.listen.global
-    - gildorymchat.ch.listen.mod
-    - gildorymchat.ch.listen.help
+    - gildorym.chat.ch.talkin.say
+    - gildorym.chat.ch.talkin.whisper
+    - gildorym.chat.ch.talkin.shout
+    - gildorym.chat.ch.talkin.global
+    - gildorym.chat.ch.talkin.mod
+    - gildorym.chat.ch.talkin.help
+    - gildorym.chat.ch.mute.say
+    - gildorym.chat.ch.mute.whisper
+    - gildorym.chat.ch.mute.shout
+    - gildorym.chat.ch.mute.global
+    - gildorym.chat.ch.mute.mod
+    - gildorym.chat.ch.mute.help
+    - gildorym.chat.ch.listen.say
+    - gildorym.chat.ch.listen.whisper
+    - gildorym.chat.ch.listen.shout
+    - gildorym.chat.ch.listen.global
+    - gildorym.chat.ch.listen.mod
+    - gildorym.chat.ch.listen.help
     - gildorym.permissions.command.setgroup
     - gildorym.permissions.command.addgroup
     - gildorym.permissions.command.removegroup
@@ -1656,69 +1848,12 @@ groups:
     - iConomy.accounts.purge
     - iConomy.accounts.empty
     - itemenchanting.command.enchant
-    - lwc.*
-    - lwc.protect
-    - lwc.admin
-    - lwc.allcommands
-    - lwc.shownotices
-    - lwc.mod
-    - lwc.deny
-    - lwc.create
-    - lwc.modify
-    - lwc.unlock
-    - lwc.info
-    - lwc.remove
-    - lwc.flag*
-    - lwc.allflags
-    - lwc.flag.redstone
-    - lwc.flag.magnet
-    - lwc.flag.autoclose
-    - lwc.mode.*
-    - lwc.allmodes
-    - lwc.mode.persist
-    - lwc.mode.droptransfer
-    - lwc.autoprotect
     - moreplayermodels.sit
     - moreplayermodels.sleep
     - moreplayermodels.dance
     - moreplayermodels.hug
     - moreplayermodels.love
     - moreplayermodels.sing
-    - permissions.build
-    - permissions.help
-    - permissions.reload
-    - permissions.check
-    - permissions.info
-    - permissions.dump
-    - permissions.group.help
-    - permissions.group.list
-    - permissions.group.players
-    - permissions.group.setperm
-    - permissions.group.unsetperm
-    - permissions.player.help
-    - permissions.player.groups
-    - permissions.player.setgroup
-    - permissions.player.addgroup
-    - permissions.player.removegroup
-    - permissions.player.setperm
-    - permissions.player.unsetperm
-    - permissions.setrank.default
-    - permissions.setrank.bronzedonator
-    - permissions.setrank.silverdonator
-    - permissions.setrank.golddonator
-    - permissions.setrank.platinumdonator
-    - permissions.setrank.trialmod
-    - permissions.setrank.mod
-    - permissions.setrank.admin
-    - permissions.setrank.whitelist
-    - permissions.setrank.forummod
-    - permissions.setrank.communitymanager
-    - permissions.setrank.headcommunitymanager
-    - permissions.setrank.dungeonmaster
-    - permissions.setrank.headdungeonmaster
-    - permissions.setrank.trialdeveloper
-    - permissions.setrank.developer
-    - permissions.setrank.headdeveloper
     - potioncaster.cast
     - protocol.admin.
     - rudeltools.break.shovel
@@ -1736,13 +1871,6 @@ groups:
     - rudeltools.*
     - silverswords.command.setsilver
     - announce.admin
-    - sw.warn
-    - sw.check
-    - sw.check.other
-    - sw.delete
-    - sw.mod
-    - sw.reload
-    - sw.fix
     - vault.admin
     - worldedit.*
     - worldedit.biome.info
@@ -1934,7 +2062,6 @@ groups:
     - essentials.signs.use.protection
     - essentials.sleepingignored
     - essentials.vanish.effect
-    - permissions.setrank.trialdungeonmaster
     - worldguard.region.removeowner.member.*
   whitelister:
     inheritsfrom: default
@@ -1946,9 +2073,12 @@ groups:
     - channelswitcher.mod
     - essentials.kit
     - essentials.kits.silver
-    - gildorymchat.ch.talkin.mod
-    - gildorymchat.ch.mute.mod
-    - gildorymchat.ch.listen.mod
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warps.*
+    - gildorym.chat.ch.talkin.mod
+    - gildorym.chat.ch.mute.mod
+    - gildorym.chat.ch.listen.mod
     deny:
     - donatorperks.silver
     - donatorperks.bronze
@@ -1965,6 +2095,61 @@ groups:
     - basicchar.command.getprofession
     - boatsigns.create
     - channelswitcher.mod
+    - craftbook.reload
+    - craftbook.mech.area.save.self
+    - craftbook.mech.area.save.<namespace>
+    - craftbook.mech.area.delete.self
+    - craftbook.mech.area.delete.<namespace>
+    - craftbook.mech.area.delete.<namespace>.all
+    - craftbook.mech.area.list.self
+    - craftbook.mech.area.list.all
+    - craftbook.mech.area.list.<namespace>
+    - craftbook.mech.area.sign.area
+    - craftbook.mech.area.sign.savearea
+    - craftbook.mech.area.use
+    - craftbook.mech.ammeter.use
+    - craftbook.mech.pistons.bounce
+    - craftbook.mech.pistons.crush
+    - craftbook.mech.pistons.superpush
+    - craftbook.mech.pistons.supersticky
+    - craftbook.mech.bridge
+    - craftbook.mech.bridge.use
+    - craftbook.mech.bridge.restock
+    - craftbook.mech.bridge.infinite
+    - craftbook.mech.bookshelf.use
+    - craftbook.mech.cauldron
+    - craftbook.mech.cauldron.use
+    - craftbook.mech.chair.use
+    - craftbook.mech.command
+    - craftbook.mech.command.use
+    - craftbook.mech.cook
+    - craftbook.mech.door
+    - craftbook.mech.door.use
+    - craftbook.mech.door.infinite
+    - craftbook.mech.door.restock
+    - craftbook.mech.drops
+    - craftbook.mech.elevator
+    - craftbook.mech.elevator.use
+    - craftbook.mech.gate
+    - craftbook.mech.dgate
+    - craftbook.mech.gate.use
+    - craftbook.mech.gate.restock
+    - craftbook.mech.gate.infinite
+    - craftbook.mech.hiddenswitch
+    - craftbook.mech.hiddenswitch.use
+    - craftbook.mech.lightstone.use
+    - craftbook.mech.light-switch
+    - craftbook.mech.map
+    - craftbook.mech.map.use
+    - craftbook.mech.paintingswitch.use
+    - craftbook.mech.pay
+    - craftbook.mech.pay.use
+    - craftbook.mech.signcopy.use
+    - craftbook.mech.snow.place
+    - craftbook.mech.snow.trample
+    - craftbook.mech.teleporter
+    - craftbook.mech.teleporter.use
+    - craftbook.plc.debug
     - disguisecraft.player.*
     - disguisecraft.mob.*
     - disguisecraft.object.*
@@ -1996,6 +2181,7 @@ groups:
     - essentials.lightning
     - essentials.ptime
     - essentials.ptime.others
+    - essentials.realname
     - essentials.repair
     - essentials.repair.armor
     - essentials.repair.enchanted
@@ -2015,14 +2201,16 @@ groups:
     - essentials.warp.otherplayers
     - essentials.warps.*
     - essentials.weather
-    - gildorymchat.ch.talkin.mod
-    - gildorymchat.ch.mute.mod
-    - gildorymchat.ch.listen.mod
+    - essentials.whois
+    - gildorym.chat.ch.talkin.mod
+    - gildorym.chat.ch.mute.mod
+    - gildorym.chat.ch.listen.mod
     - potioncaster.cast
     - silverswords.command.setsilver
     - disguisecraft.*
-    - gildorymchat.ch.talkin.dm
-    - gildorymchat.ch.mute.dm
+    - gildorym.chat.ch.talkin.dm
+    - gildorym.chat.ch.mute.dm
+    - gildorym.chat.ch.listen.dm
     - channelswitcher.dm
     deny:
     - essentials.vanish.effect
@@ -2036,8 +2224,9 @@ groups:
   headdungeonmaster:
     inheritsfrom: admin
     allow:
-    - gildorymchat.ch.listen.dm
-    - gildorymchat.ch.mute.dm
+    - gildorym.chat.ch.listen.dm
+    - gildorym.chat.ch.mute.dm
+    - gildorym.chat.ch.talkin.dm
     - channelswitcher.dm
   trialdeveloper:
     inheritsfrom: default
@@ -2065,21 +2254,13 @@ groups:
     - essentials.warp.list
     - essentials.whois
     - factions.config
-    - gildorymchat.ch.talkin.mod
-    - gildorymchat.ch.mute.mod
-    - gildorymchat.ch.listen.mod
+    - gildorym.chat.ch.talkin.mod
+    - gildorym.chat.ch.mute.mod
+    - gildorym.chat.ch.listen.mod
     - lwc.info
-    - permissions.help
-    - permissions.check
-    - permissions.info
-    - permissions.dump
-    - permissions.group.help
-    - permissions.group.list
-    - permissions.player.help
-    - permissions.player.groups
-    - gildorymchat.ch.talkin.dev
-    - gildorymchat.ch.listen.dev
-    - gildorymchat.ch.mute.dev
+    - gildorym.chat.ch.talkin.dev
+    - gildorym.chat.ch.listen.dev
+    - gildorym.chat.ch.mute.dev
     - channelswitcher.dev
     deny:
     - add
@@ -2088,7 +2269,7 @@ groups:
   headdeveloper:
     inheritsfrom: admin
     allow:
-    - gildorymchat.ch.talkin.dev
-    - gildorymchat.ch.listen.dev
-    - gildorymchat.ch.mute.dev
+    - gildorym.chat.ch.talkin.dev
+    - gildorym.chat.ch.listen.dev
+    - gildorym.chat.ch.mute.dev
     - channelswitcher.dev
