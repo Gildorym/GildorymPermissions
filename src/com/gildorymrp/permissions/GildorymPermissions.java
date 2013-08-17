@@ -1,7 +1,9 @@
 package com.gildorymrp.permissions;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
@@ -9,13 +11,17 @@ import org.bukkit.event.Listener;
 import org.bukkit.permissions.PermissionAttachment;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class GildorymPermissions extends JavaPlugin {
+import com.gildorymrp.api.Gildorym;
+import com.gildorymrp.api.plugin.permissions.GildorymPermissionsPlugin;
+
+public class GildorymPermissions extends JavaPlugin implements GildorymPermissionsPlugin {
 
 	public static final String PREFIX = "" + ChatColor.DARK_GREEN + ChatColor.MAGIC + "|" + ChatColor.RESET + ChatColor.GOLD + "GildorymPermissions" + ChatColor.DARK_GREEN + ChatColor.MAGIC + "| " + ChatColor.RESET;
 
 	public Map<String, PermissionAttachment> permissionAttachments = new HashMap<String, PermissionAttachment>();
 
 	public void onEnable() {
+		Gildorym.registerPermissionsPlugin(this);
 		this.saveDefaultConfig();
 		this.getConfig().options().pathSeparator('/');
 		if (this.getServer().getOnlinePlayers().length != 0) {
@@ -44,6 +50,7 @@ public class GildorymPermissions extends JavaPlugin {
 		}
 	}
 
+	@SuppressWarnings("unchecked")
 	public void assignPermissions(Player player) {
 		if (permissionAttachments.get(player.getName()) == null) {
 			permissionAttachments.put(player.getName(), player.addAttachment(this));
@@ -52,7 +59,7 @@ public class GildorymPermissions extends JavaPlugin {
 			permissionAttachments.put(player.getName(), player.addAttachment(this));
 		}
 		if (this.getConfig().getConfigurationSection("users").contains(player.getName())) {
-			for (String group : this.getConfig().getStringList("users/" + player.getName())) {
+			for (String group : (Set<String>) this.getConfig().get("users/" + player.getName())) {
 				this.assignGroupPermissions(player, group);
 			}
 		} else {
@@ -83,4 +90,41 @@ public class GildorymPermissions extends JavaPlugin {
 		}
 	}
 
+	@SuppressWarnings("unchecked")
+	@Override
+	public Set<String> getGroups(Player player) {
+		return (Set<String>) this.getConfig().get("users/" + player.getName());
+	}
+
+	@Override
+	public void setGroup(Player player, String groupName) {
+		Set<String> groups = new HashSet<String>();
+		groups.add(groupName);
+		this.getConfig().set("users/" + player.getName(), groups);
+		this.saveConfig();
+	}
+
+	@SuppressWarnings("unchecked")
+	@Override
+	public void addGroup(Player player, String groupName) {
+		Set<String> groups = (Set<String>) this.getConfig().get("users/" + player.getName());
+		groups.add(groupName);
+		this.getConfig().set("users/" + player.getName(), groups);
+		this.saveConfig();
+	}
+
+	@SuppressWarnings("unchecked")
+	@Override
+	public void removeGroup(Player player, String groupName) {
+		Set<String> groups = (Set<String>) this.getConfig().get("users/" + player.getName());
+		groups.remove(groupName);
+		this.getConfig().set("users/" + player.getName(), groups);
+		this.saveConfig();
+	}
+	
+	@Override
+	public boolean hasPermission(Player player, String node) {
+		return player.hasPermission(node);
+	}
+	
 }
